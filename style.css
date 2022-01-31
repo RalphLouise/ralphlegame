@@ -27,7 +27,7 @@ body {
 
 .first-title {
   color: var(--theme-color);
-  font-family: "MG Estranho2";
+  font-family: "MG Estranho2", "Oswald", sans-serif;
   font-weight: lighter;
   font-size: 50px;
   letter-spacing: 2px;
@@ -39,7 +39,7 @@ body {
 }
 
 .first-nav {
-  font-family: "BEBAS";
+  font-family: "BEBAS", "Oswald", sans-serif;
   font-size: 35px;
   margin-left: 150px;
   margin-right: 10px;
@@ -74,7 +74,7 @@ body {
 }
 
 .second-header {
-  font-family: "HALFMOON";
+  font-family: "HALFMOON", "Oswald", sans-serif;
   text-align: center;
   margin-left: 520px;
   margin-right: 500px;
@@ -92,7 +92,7 @@ body {
 
 .second-title {
   color: rgb(0, 0, 0);
-  font-family: "NEIGHBOR";
+  font-family: "NEIGHBOR", "Oswald", sans-serif;
   font-size: 20px;
   font-weight: 500;
   letter-spacing: 2px;
@@ -131,12 +131,12 @@ body {
 }
 
 .first-article {
-  font-family: "HALFMOON";
+  font-family: "HALFMOON", "Oswald", sans-serif;
 }
 
 .third-title {
   color: var(--theme-color);
-  font-family: "Neighbor";
+  font-family: "Neighbor", "Oswald", sans-serif;
   font-size: 30px;
   font-weight: 400;
   letter-spacing: 2px;
@@ -252,7 +252,7 @@ cite {
 div#first-ol a {
   background-color: white;
   color: rgb(0, 0, 0);
-  font-family: "HALFMOON";
+  font-family: "HALFMOON", "Oswald", sans-serif;
   font-size: 20px;
   text-decoration: none;
   margin-right: 15px;
@@ -349,7 +349,7 @@ div#first-ol a {
 .first-side {
   background-color: #f5f5f5;
   color: rgb(0, 0, 0);
-  font-family: "HALFMOON";
+  font-family: "HALFMOON", "Oswald", sans-serif;
   font-weight: bolder;
   letter-spacing: 2px;
   text-align: center;
@@ -361,7 +361,7 @@ div#first-ol a {
 .second-side {
   background-color: #f5f5f5;
   color: black;
-  font-family: "HALFMOON";
+  font-family: "HALFMOON", "Oswald", sans-serif;
   font-weight: 500;
   letter-spacing: 2px;
   text-align: center;
@@ -374,7 +374,7 @@ div#first-ol a {
 .left-side {
   background-color: #f5f5f5;
   color: black;
-  font-family: "HALFMOON";
+  font-family: "HALFMOON", "Oswald", sans-serif;
   font-weight: 500;
   letter-spacing: 1px;
   text-align: center;
@@ -391,7 +391,7 @@ div#first-ol a {
 
 .sixth-title {
   color: var(--theme-color);
-  font-family: "Neighbor";
+  font-family: "Neighbor", "Oswald", sans-serif;
   font-size: 40px;
   font-weight: 400;
   letter-spacing: 2px;
@@ -417,7 +417,7 @@ div#first-ol a {
 }
 
 .tag {
-  font-family: "NEIGHBOR";
+  font-family: "NEIGHBOR", "Oswald", sans-serif;
   font-size: 20px;
   margin: 1.5em 0px;
   padding: 5px 25px;
@@ -475,12 +475,12 @@ div#first-ol a {
 }
 
 .third-article {
-  font-family: "HALFMOON";
+  font-family: "HALFMOON", "Oswald", sans-serif;
 }
 
 .donut {
   color: var(--theme-color);
-  font-family: "Neighbor";
+  font-family: "Neighbor", "Oswald", sans-serif;
   font-size: 40px;
   font-weight: 400;
   letter-spacing: 2px;
@@ -511,7 +511,7 @@ div#first-ol a {
 /* FOOTER */
 
 .last-container {
-  font-family: "Lato";
+  font-family: "Lato", "Oswald", sans-serif;
   display: flex;
   flex-direction: column;
 }
@@ -530,7 +530,6 @@ div#first-ol a {
 }
 
 /* MUSIC */
-
 *::before,
 *::after {
   padding: 0;
@@ -550,7 +549,7 @@ div#first-ol a {
 }
 
 .wrapper {
-  font-family: "NEIGHBOR";
+  font-family: "NEIGHBOR", "Oswald", sans-serif;
   width: 380px;
   padding: 25px 30px;
   overflow: hidden;
@@ -885,7 +884,7 @@ cite,
 }
 
 .rickroll {
-  font-family: "Lato";
+  font-family: "Lato", "Oswald", sans-serif;
   color: var(--theme-color);
   text-decoration: none;
   margin-left: 10px;
